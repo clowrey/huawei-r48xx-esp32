@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 
-#define POWER_EN_GPIO 15
+#define POWER_EN_GPIO 25
 #define MAX_SRV_CLIENTS 4
 
 namespace Main {
